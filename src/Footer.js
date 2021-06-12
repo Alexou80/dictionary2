@@ -8,7 +8,7 @@ export default function Footer() {
 			<p> Alexandra Philips</p>
 			. It is
 			<a
-				href="https://github.com/ozlemalp/react-dictionary-app"
+				href="https://github.com/Alexou80/dictionary2"
 				target="_blank"
 				rel="noopener noreferrer"
 			>
