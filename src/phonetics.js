@@ -12,4 +12,4 @@ export default function Phonetics (props) {
                                   
                     )
             })}           
-        </div>)
+        </div>)}

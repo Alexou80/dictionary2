@@ -1,7 +1,7 @@
 
 import "./App.css";
 import React from "react";
-import Dictionary from "./dictionary";
+import Dictionary from "./Dictionary";
 import Footer from "./Footer";
 
 export default function App() {
